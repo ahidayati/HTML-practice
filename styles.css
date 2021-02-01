@@ -1,0 +1,36 @@
+body {
+  background-color: #ffcda3;
+  font-family: Candara, sans-serif;
+}
+hr {
+  border-style: dotted none none;
+  border-top-color: #ee9595;
+  border-top-style: dotted;
+  border-top-width: 6px;
+  width: 10%;
+}
+h1 {
+color: #ef4f4f;
+margin: auto;
+}
+h3 {
+color: #df7861;
+margin: auto;
+text-align: center;
+}
+p {
+  margin: auto;
+}
+table{
+  margin: auto;
+}
+ol{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul{
+  display: inline-block; text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
